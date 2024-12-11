@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\bin\Debug\net8.0\LinqLivros.exe
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\bin\Debug\net8.0\LinqLivros.deps.json
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\bin\Debug\net8.0\LinqLivros.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\bin\Debug\net8.0\LinqLivros.dll
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\bin\Debug\net8.0\LinqLivros.pdb
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.dll
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\refint\LinqLivros.dll
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.pdb
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\LinqLivros.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\LinqLivros\LinqLivros\obj\Debug\net8.0\ref\LinqLivros.dll
